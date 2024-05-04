@@ -3,10 +3,10 @@ import config from '../core/config';
 import context from '../core/context';
 
 const SimpleButton = () =>
-	<button
+	<div
 		onClick={ () => context.actions.increaseCount(config.increment) }
 	>
-		Click Me!
-	</button>;
+		Clicked  Me
+	</div>;
 
 export default SimpleButton;

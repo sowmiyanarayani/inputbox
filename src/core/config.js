@@ -7,13 +7,13 @@ const config = {
 			label: 'username',
 			name: 'enter a userName',
 			value: 'username',
-			action: 'setUserName',
+			event: 'setUserName',
 		},
 		{
 			label: 'password',
 			name: 'enter a password',
 			value: 'password',
-			action: 'setPassword',
+			event: 'setPassword',
 
 		},
 	],
