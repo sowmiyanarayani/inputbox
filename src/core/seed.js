@@ -7,7 +7,7 @@ const seed = {
 	count: config.countStart,
 	refreshID: rndString(refreshIDLength),
 	username: '',
-	password: '',
+	password: '123',
 	profileName: '',
 	login: 'login',
 	click: '',
