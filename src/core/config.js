@@ -2,7 +2,7 @@
 const config = {
 	countStart: 0,
 	increment: 1,
-	Password: 123,
+	
 	textBoxes: [
 		{
 			label: 'username',
